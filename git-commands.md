@@ -1,33 +1,33 @@
 # GitHub Commands 
 
-# 🚀 Create new branch 🚀
+## 🚀 Create new branch 
 
-## git checkout -b branch-name
+#### git checkout -b branch-name ✍️
 
-# 🚀 Add a file to the branch 🚀
+## 🚀 Add a file to the branch 
 
-## git add file-name 
+#### git add file-name ✍️ 
 
-# 🚀 Add all files & changes to branch 🚀
+## 🚀 Add all files & changes to branch 
 
-## git add . 
+#### git add . ✍️
 
-# 🚀 Create commit message (after adding files) 🚀
+## 🚀 Create commit message (after adding files) 
 
-## git commit -m "Describe changes" 
+#### git commit -m "Describe changes" ✍️
 
-# 🚀 Push changes to GitHub after adding and creating commit 🚀
+## 🚀 Push changes to GitHub after adding and creating commit 
 
-## git push 
+#### git push ✍️
 
-# 🚀 Pull down changes from GitHub to local branch 🚀
+## 🚀 Pull down changes from GitHub to local branch 
 
-## git pull 
+#### git pull ✍️
 
-# 🚀 Pull down branches from GitHub 🚀
+## 🚀 Pull down branches from GitHub 
 
-## git fetch 
+#### git fetch ✍️
 
-# 🚀 Delete Branch 🚀
+## 🚀 Delete Branch 
 
-## git branch -D branch-name 
+#### git branch -D branch-name ✍️
